@@ -1,0 +1,18 @@
+@media screen and (max-width:1399px){
+    /* 화면에 1400px미만으로 갈 때*/
+    img {width: 100%;}
+    header nav {
+        display: none;
+    }
+    header .right {
+        display: none;
+    }
+    /*화면 헤더 글씨 가리기*/
+}
+@media screen and (max-width:999px){
+    /*테블릿*/
+
+}
+@media screen and (max-width:768px){
+    /*모바일*/
+}
